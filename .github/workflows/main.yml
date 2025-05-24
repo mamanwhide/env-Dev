@@ -1,0 +1,93 @@
+name: CI/CD for COCONUT Bluebook
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout repositori
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # Bersihkan cache dan build
+      - name: Clean cache and build
+        run: |
+          rm -rf .cache build
+      # Build dengan Antora
+      - name: Build with Antora
+        run: |
+          docker run -u $(id -u) -v $PWD:/antora:Z --rm -t antora/antora --cache-dir=./.cache --stacktrace antora-playbook.yml
+          
+      # Debug direktori build
+      - name: Debug build directory
+        run: |
+          echo "Checking build directory in runner"
+          ls -l build
+
+          
+      # Debug secrets
+      - name: Debug secrets
+        run: |
+          echo "VPS_HOST is set: ${{ secrets.VPS_HOST != '' }}"
+          echo "VPS_USERNAME is set: ${{ secrets.VPS_USERNAME != '' }}"
+          echo "VPS_SSH_KEY is set: ${{ secrets.VPS_SSH_KEY != '' }}"
+          echo "VPS_SSH_PORT is set: ${{ secrets.VPS_SSH_PORT != '' }}"
+      # Persiapkan direktori di VPS
+      - name: Prepare VPS
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Preparing temporary directory"
+            rm -rf /home/inesa/BlueBook/build
+      # Unggah artefak build ke VPS
+      - name: Upload build to VPS
+        uses: appleboy/scp-action@v0.1.4
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          source: "build"
+          target: "/home/inesa/BlueBook"
+          strip_components: 0
+          overwrite: true
+          debug: true
+
+
+      # Pindahkan build ke direktori tujuan
+      - name: Move build to web directory
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Moving build to /var/www/html/build"
+            rm -rf /var/www/html/build
+            cp -r /home/inesa/BlueBook/build /var/www/html/
+            chmod -R 755 /var/www/html/build
+            ls -la /var/www/html/build
+            rm -rf /home/inesa/tmp
+            
+      # Finalisasi deployment
+      - name: Finalize deployment
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USERNAME }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          port: ${{ secrets.VPS_SSH_PORT }}
+          script: |
+            echo "Finalizing deployment"
+            ls -l /var/www/html/build/
+            echo "Deployment completed"
