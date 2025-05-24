@@ -1,0 +1,13 @@
+= Interview
+:navtitle: Now Open - Interview
+:description: Interview process for COCONUT recruitment
+:keywords: COCONUT, recruitment, interview, membership
+
+== Overview
+The *Interview* section explains the interview stage of COCONUT's recruitment process, where candidates are evaluated for their fit with the community.
+
+== Details
+[NOTE]
+This section is under development. Details about interview formats, questions, and preparation tips will be added soon.
+
+Check back for updates on how to excel in COCONUT's interviews.

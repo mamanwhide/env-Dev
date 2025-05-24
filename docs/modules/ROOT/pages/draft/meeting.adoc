@@ -1,0 +1,13 @@
+= Meeting
+:navtitle: Meeting
+:description: Strategic meetings and planning sessions for COCONUT
+:keywords: COCONUT, meetings, Mubes, Raker, Triwulan
+
+== Overview
+The *Meeting* section outlines COCONUT's strategic gatherings, including *Mubes* (Musyawarah Besar), *Raker* (Rapat Kerja), *Triwulan* (quarterly meetings), and other planning sessions.
+
+== Details
+[NOTE]
+This section is under development. Details about meeting schedules, agendas, and outcomes will be added soon.
+
+Check back for updates on COCONUT's collaborative planning efforts.

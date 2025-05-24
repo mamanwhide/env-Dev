@@ -1,0 +1,89 @@
+= On-Boarding COCONUT
+:navtitle: On-Boarding
+:description: On-Boarding dan pengenalan anggota baru COCONUT Computer Club berbasis nilai intelektual dan kolaborasi
+:keywords: COCONUT, on-boarding, transisi, teknologi, pendidikan, simbolisme
+
+== Ikhtisar
+*On-Boarding New Member* COCONUT Computer Club adalah langkah transformasional yang menandai perjalanan individu dari calon anggota menjadi agen perubahan teknologi. Konsep ini dirancang untuk membangun fondasi intelektual, keterampilan teknis, dan identitas kolektif melalui pengalaman langsung dan simbolisme mendalam. Kegiatan ini menggabungkan pendidikan, kolaborasi, dan refleksi dalam suasana yang mendukung pertumbuhan pribadi dan profesional.
+
+[quote, Visi On-Boarding COCONUT]
+____
+Landasan ini berdasarkan pengalaman yang dinamis, fleksibel, dan berakar pada nilai-nilai COCONUT, dengan prosesi simbolis untuk menegaskan transisi calon anggota ke anggota club.
+____
+
+== Tujuan
+[cols="2,3",options="header"]
+|===
+|Tujuan |Manfaat
+|*Membangun Identitas Kolektif* |Menanamkan rasa kepemilikan dan kebersamaan melalui simbolisme dan kolaborasi.
+|*Meningkatkan Kapasitas Intelektual* |Memberikan fondasi pengetahuan teknologi dan logika sebagai dasar peran anggota.
+|*Mendorong Adaptasi Dinamis* |Menyesuaikan materi dengan kebutuhan kontemporer untuk relevansi berkelanjutan.
+|===
+
+== Prosesi Simbolis
+Setelah On-Boarding resmi, prosesi simbolis *Pembersihan* dilaksanakan untuk menandai transisi anggota baru ke study club COCONUT. Dalam tradisi intelektual dan kultural, *Pembersihan* melambangkan pemurnian komitmen dan pengabdian, di mana anggota baru "mencuci" diri dari ketidakpastian masa lalu dengan memotong serpihan rambut dan menyimpan di dalam kelapa — simbol kesuburan, kebersamaan, dan keberlanjutan. Proses ini mencakup:
+- **Simbolis Pembersihan**: Pemotongan serpihan rambut anggota baru yang disimpan di dalam kelapa.
+- **Pemasangan PDH**: Menandakan identitas baru sebagai bagian dari COCONUT.
+- **Refleksi Bersama**: Anggota baru berbagi komitmen pribadi di hadapan komunitas.
+
+== Materi Pendidikan
+Materi dirancang untuk membentuk struktur dasar calon anggota, dengan fleksibilitas untuk pembaruan berkala:
+
+- **Wajib (Struktur Dasar)**:
+  . *3KP (Kepemimpinan, Keorganisasian, Kesekretariatan & Persidangan)*: 60 menit, membangun landasan filosofis dan praktis COCONUT melalui pemahaman kepemimpinan, organisasi berbadan hukum, kesekretariatan, dan persidangan (Pemateri).
+- **Fleksibel (Update Periodik)**:
+  . *Fundamental AI*: 50 menit, memperkenalkan dasar kecerdasan buatan (Pemateri).
+  . *Sektor Finansial, Energi, Kesehatan, Pendidikan, Infrastruktur*: Total 210 menit (masing-masing sektor sekitar 42 menit), eksplorasi teknologi dalam berbagai sektor untuk memberikan wawasan lintas disiplin (Pemateri).
+  . *Brain Engineering*: 90 menit, teknik pemecahan masalah kompleks (Pemateri).
+
+Materi fleksibel dapat disesuaikan setiap periode berdasarkan kebutuhan kontemporer, seperti tren terbaru atau proyek komunitas terbaru.
+
+== Konsep Pengalaman Transformasional (GET)
+Pengalaman GET (Growth, Empowerment, Transformation) dirancang sebagai perjalanan intelektual dan emosional melalui lima tahap, masing-masing dengan suasana, tantangan, dan refleksi:
+
+- **GET I: Mitologi (Hitam)**  
+  . *Suasana*: Chaos kreatif dengan asap dan gantungan almamater tiap perguruan tinggi.  
+  . *Hafalan*: Pancasila, UUD 1945, Tujuan COCONUT.  
+  . *Tantangan*: Rancang "Dunia Baru" dalam 5 menit (5 poin).  
+  . *Stress Test* 
+
+- **GET II: Pra-Socrates (Abu-abu)**  
+  . *Suasana*: Perpustakaan intelektual dengan lilin dan buku.  
+  . *Hafalan*: Formula-formula dasar (e.g., rumus konversi byte > oktal > hexa > decimal, formula (sin, kos, tan), Satuan byte, etc), pengetahuan dasar, evaluasi materi pembelajaran.  
+  . *Tantangan*: 3 soal logika dan IT.  
+  . *Stress Test*
+
+- **GET III: Abad Pertengahan (Merah)**  
+  . *Suasana*: Perang dengan api unggun dan topeng.  
+  . *Hafalan*: 36 Point Art of War, Visi Misi COCONUT.  
+  . *Tantangan*: Strategi Perang Dunia III berdasarkan Sun Tzu.  
+  . *Stress Test* 
+
+- **GET IV: Renaisans (Kuning)**  
+  . *Suasana*: Ceria dengan musik abad renaisans dan wejangan.  
+  . *Tantangan*: Skenario loyalitas & solidaritas.  
+  . *Stress Test*
+
+- **GET V: Early Modern (Biru)**  
+  . *Suasana*: Renungan dengan teh hangat dan api unggun.  
+  . *Tantangan*: Susun Lego dari kepingan GET sebelumnya.  
+  . *Achievement*: Pemasangan PDH.  
+
+*Catatan*: Setiap GET dilengkapi kepingan Lego sebagai simbol progresi, disimpan dengan baik, dan digunakan di GET V.
+
+== Games Interaktif
+- *Grab the Bottle Game*: Meningkatkan kerja sama tim.
+- *Tebak Gambar*: Mengasah kreativitas dan komunikasi.
+- *Permainan Lego*: Filosofi atomisme (segala sesuatu dibentuk dan disatukan dari "atom" kecil).
+
+== Indikator Keberhasilan
+[cols="2,3",options="header"]
+|===
+|Kategori |Indikator
+|*Partisipasi* |Tingkat kehadiran ≥ 90% selama kegiatan on-boarding.
+|*Pemahaman Materi* |80% calon anggota lulus hafalan dan tantangan GET.
+|*Transformasi Identitas* |100% anggota baru mengikuti prosesi dikukuhkan dan pemasangan PDH.
+|===
+
+== Penutup
+On-Boarding COCONUT adalah perjalanan transformasi yang menggabungkan pendidikan, simbolisme, dan kolaborasi. Melalui pendekatan teoritis dan praktis, kegiatan ini membentuk anggota baru menjadi pemimpin dan jendral teknologi yang berakar pada nilai-nilai COCONUT.

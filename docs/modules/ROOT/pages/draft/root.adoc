@@ -1,0 +1,13 @@
+= ROOT (Research Orientation of Training)
+:navtitle: ROOT
+:description: Core principles and foundation of COCONUT activities
+:keywords: COCONUT, core principles, foundation
+
+== Overview
+The *ROOT* section defines the core principles and foundational elements that guide all COCONUT activities, ensuring alignment with our mission of innovation and community empowerment.
+
+== Details
+[NOTE]
+This section is under development. Information about COCONUT's core values, organizational structure, and foundational strategies will be added soon.
+
+Explore this section later for insights into the heart of COCONUT's operations.

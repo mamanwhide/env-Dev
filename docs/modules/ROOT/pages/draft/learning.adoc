@@ -1,0 +1,16 @@
+= Learning
+:navtitle: Learning
+:description: Learning programs for COCONUT members and participants
+:keywords: COCONUT, learning, calgot, education
+
+== Overview
+The *Learning* section details COCONUT's educational programs, including sub-programs for *Calgot* (new members) and other participants, aimed at building technological and leadership skills.
+
+== Details
+[NOTE]
+This section is under development. Details about learning modules, training schedules, and sub-programs for Calgot and members will be added soon.
+
+Check back for updates on how COCONUT fosters knowledge and growth.
+
+
+== TES

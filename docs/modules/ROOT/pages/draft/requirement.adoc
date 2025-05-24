@@ -1,0 +1,88 @@
+= Persyaratan Pendaftaran Calon Anggota COCONUT
+:navtitle: Requirement
+:description: Persyaratan dan kriteria untuk menjadi calon anggota COCONUT Computer Club
+:keywords: COCONUT, persyaratan, perekrutan, teknologi, keterampilan, komitmen
+
+== Ikhtisar
+*Persyaratan Pendaftaran Calon Anggota* dari *COCONUT Computer Club*, langkah awal untuk bergabung dalam ekosistem belajar teknologi yang inklusif dan progresif. Persyaratan ini dirancang untuk mengenali potensi, minat, dan kesiapan calon anggota dalam menjalani perjalanan pembelajaran dan kontribusi nyata. Berlandaskan pada teori *pengembangan kapasitas individu* dan *kolaborasi berbasis komunitas*, COCONUT menawarkan ruang untuk bertumbuh bersama.
+
+Dengan pendekatan yang terarah dan suportif, COCONUT membuka pintu bagi mahasiswa yang bercita-cita menjadi agen perubahan melalui teknologi.
+
+== Tujuan Persyaratan
+Persyaratan ini bertujuan untuk memastikan calon anggota memiliki dasar yang kuat untuk berkembang:
+
+[cols="2,3",options="header"]
+|===
+|Tujuan |Manfaat bagi Calon Anggota
+|*Mengukur Potensi Awal* |Menilai kemampuan dasar, minat, dan motivasi calon anggota dalam bidang teknologi.
+|*Menjaga Keselarasan Nilai* |Memastikan calon anggota selaras dengan visi, misi, dan budaya kolaboratif COCONUT.
+|*Mempersiapkan Pembelajaran* |Memberikan landasan awal untuk mengikuti pelatihan dan proyek organisasi dengan efektif.
+|===
+
+== Persyaratan Utama
+Persyaratan yang harus dipenuhi oleh calon anggota COCONUT:
+
+- **Kriteria Dasar**
+  . Status sebagai mahasiswa aktif di perguruan tinggi yang diakui.
+  . Maksimal semester 3 di perguruan tinggi.
+  . Komitmen untuk mengikuti seluruh proses seleksi dan pembekalan awal.
+- **Keterampilan Awal**
+  . Pemahaman dasar teknologi (misalnya, penggunaan komputer atau perangkat lunak dasar).
+    .. Tidak diperlukan pengalaman lanjutan; COCONUT menyediakan pembelajaran untuk calon anggota.
+  . Kemampuan logika dan pemecahan masalah (akan diuji melalui tes tertulis).
+- **Sikap dan Komitmen**
+  . Semangat belajar dan keterbukaan terhadap pengalaman baru.
+  . Kesediaan berkolaborasi dalam tim dan berkontribusi pada proyek organisasi.
+  . Kepemilikan nilai-nilai kekeluargaan, inovasi, dan tanggung jawab sosial.
+
+== Proses Pemenuhan Persyaratan
+Dirancang untuk mengevaluasi dan mendampingi calon anggota:
+
+[cols="1,3,2",options="header"]
+|===
+|Tahap |Aktivitas |Metode
+|*Pendaftaran* |Pengisian formulir online atau kunjungan ke stan pendaftaran offline. |Website pendaftaran dan interaksi langsung.
+|*Tes Awal* |Pelaksanaan tes tertulis untuk mengukur logika, potensi teknologi, dan kepribadian (MBTI). |Soal pilihan ganda, esai sederhana, dan tes MBTI.
+|*Wawancara* |Sesi wawancara untuk menilai motivasi dan keselarasan nilai. |Wawancara langsung atau daring.
+|*Evaluasi* |Penilaian oleh tim panitia berdasarkan hasil tes dan wawancara. |Rubrik penilaian terstruktur.
+|===
+
+== Dukungan untuk Calon Anggota
+Komitmen untuk mendampingi calon anggota selama proses:
+
+- **Pelatihan Awal**
+  . Sesi pengenalan teknologi dasar untuk pemula.
+  . Workshop kolaborasi dan manajemen proyek sederhana.
+- **Mentoring**
+  . Pendampingan oleh anggota senior selama tahap seleksi.
+    .. Termasuk interpretasi hasil MBTI untuk memahami gaya belajar dan kerja tim.
+  . Bimbingan personal untuk meningkatkan keterampilan awal.
+- **Akses Sumber Daya**
+  . Akses ke materi belajar online dan komunitas diskusi internal.
+  . Dukungan perangkat teknologi dasar jika diperlukan (berdasar evaluasi).
+
+== Output yang Diharapkan
+- **Seleksi yang Tepat**
+  . Terpilihnya calon anggota yang memenuhi kriteria dan siap berkembang.
+  . Pemahaman kepribadian melalui MBTI untuk mendukung dinamika tim.
+- **Pembekalan Awal**
+  . Calon anggota mendapatkan pemahaman awal tentang teknologi dan budaya.
+- **Kesiapan Kontribusi**
+  . Calon anggota siap mengikuti proyek nyata dan menjadi bagian dari regenerasi organisasi.
+
+== Indikator Keberhasilan
+[cols="2,3",options="header"]
+|===
+|Kategori |Indikator
+|*Kualitas Calon Anggota* | 80% calon anggota menunjukkan kemajuan dalam tes logika setelah pelatihan awal, tingkat keselarasan nilai ≥ 75% berdasarkan wawancara dan tes MBTI.
+|*Partisipasi* | Tercapai target pendaftar minimal 50% dari kuota tahunan. tingkat kehadiran ≥ 90% dalam sesi wawancara dan tes.
+|*Kesiapan Belajar* | 85% calon anggota menyatakan siap mengikuti pembekalan berdasarkan umpan balik.
+|===
+
+[quote]
+____
+Setiap individu adalah benih inovasi yang membutuhkan sinar matahari pagi dan air untuk tumbuh dan mekar.
+____
+
+== Penutup
+Langkah awal untuk membuka pintu menuju study club *COCONUT Computer Club* yang dinamis dan berorientasi pada pertumbuhan. Melalui pendekatan inklusif dan terstruktur, berkomitmen membina calon anggota menjadi agen perubahan teknologi yang berkelanjutan.

@@ -1,0 +1,13 @@
+= Now Open
+:navtitle: Now Open
+:description: Recruitment and selection process for COCONUT programs
+:keywords: COCONUT, recruitment, registration, interview
+
+== Overview
+This section outlines the *Now Open* phase of COCONUT's activities, covering registration, interviews, tests, and other selection processes for participants in our programs.
+
+== Details
+[NOTE]
+This section is under development. Details about the recruitment process, including timelines, requirements, and application procedures, will be added soon.
+
+Stay tuned for updates on how to join COCONUT's transformative initiatives!

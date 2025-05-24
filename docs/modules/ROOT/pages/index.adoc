@@ -1,0 +1,44 @@
+= COCONUT - Bluebook
+:navtitle: Home
+:description: Foundation for all COCONUT activity
+:keywords: COCONUT, Bluebook, INESA, Transformation, 
+
+== Bluebook COCONUT
+Manifesto strategis yang dirancang oleh para anggota COCONUT untuk memandu setiap langkah dalam membangun perubahan. Di balik setiap inisiatif, ada visi kepemimpinan yang mengarahkan kami untuk memberdayakan masyarakat melalui teknologi, dengan hati dan pikiran tertuju pada transformasi digital di wilayah pedesaan.
+
+Bluebook ini adalah panduan dan cerminan dari komitmen para penggerak untuk mewujudkan inklusi digital sebagai pilar pembangunan berkelanjutan. Berlandaskan pada prinsip kepemimpinan transformasional, kami merancang proses dan tujuan yang inovatif dan berakar pada kebutuhan masyarakat. Bersama, kita akan menjelajahi bagaimana teknologi dapat menjadi jembatan menuju pemberdayaan, menghubungkan potensi pedesaan dengan peluang global. Ikut serta dalam perjalanan panjang untuk menciptakan dampak nyata! Membantu berbagai pihak untuk memahami tiap makna kebajikan.
+
+[quote]
+____
+Terhadap banyak tragedi, barang siapa yang belajar banyak akan menyelami semua keinginan yang lebih keras "Itu dibisikkan hari ini di semua lorong gelap"
+____
+
+== Jelajahi Bluebook
+Berikut adalah panduan untuk menyelami berbagai inisiatif COCONUT:
+
+- xref:draft/now-open.adoc[Now Open]
+  ** xref:draft/requirement.adoc[Requirement]
+  ** xref:draft/interview.adoc[Interview]
+  ** xref:draft/test.adoc[Test]
+- xref:draft/root.adoc[ROOT]
+- xref:draft/learning.adoc[Learning]
+  ** xref:draft/candidate-member.adoc[Candidate Member]
+  ** xref:draft/member.adoc[Member]
+- xref:draft/coconut-draft-inesa.adoc[INESA]
+- xref:draft/onboarding.adoc[Onboarding]
+- xref:draft/meeting.adoc[Meeting]
+  ** xref:draft/mubes.adoc[Mubes]
+  ** xref:draft/raker.adoc[Raker]
+  ** xref:draft/triwulan.adoc[Triwulan]
+
+== Author
+- Abd Rahman
+- Nurman Awaluddin
+- Andi Resky Amaliah
+- Syahrul Ramadhan 
+
+
+== Bluebook Version
+Bluebook — Versi 1.0
+
+Telusuri bagian-bagian ini untuk memahami bagaimana COCONUT mengelola kegiatannya, mulai dari perekrutan, pembelajaran, hingga rapat strategis, semua demi menciptakan dampak yang berkelanjutan untuk masyarakat.

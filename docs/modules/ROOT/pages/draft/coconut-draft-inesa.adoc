@@ -1,0 +1,109 @@
+= INESA: Inovasi dan Edukasi Desa
+:navtitle: INESA
+:description: Inisiatif INESA untuk transformasi digital pedesaan melalui teknologi dan edukasi
+:keywords: COCONUT, INESA, transformasi digital, IoT, AI, pemberdayaan desa, edukasi teknologi
+
+== Ikhtisar
+*INESA* (Inovasi dan Edukasi Desa), sebuah inisiatif unggulan dari COCONUT Computer Club yang dirancang untuk membawa perubahan nyata di pedesaan. Berlandaskan pada teori *pemberdayaan masyarakat* dan *sustainable development*, INESA menggabungkan teknologi modern seperti Internet of Things (IoT), Artificial Intelligence (AI), dan penguatan infrastruktur digital untuk meningkatkan kemandirian dan kesejahteraan masyarakat desa.
+
+[quote, Visi INESA]
+____
+Transformasi inklusif dimulai ketika teknologi menjadi bahasa pemersatu—bukan penghalang—antara kemajuan dan identitas lokal.
+____
+
+Melalui kolaborasi dengan COCONUT Computer Club—sebuah *think-tank* riset terapan yang berdiri sejak April 2008—INESA menjadi katalisator untuk mewujudkan desa yang adaptif, inovatif, dan berdaya saing di era digital.
+
+== Tujuan
+INESA memiliki tiga tujuan utama yang dirancang untuk mendukung transformasi digital pedesaan:
+
+[cols="2,3",options="header"]
+|===
+|Tujuan |Manfaat bagi Desa
+|*Integrasi Teknologi Berbasis Kebutuhan Lokal* |Mengoptimalkan sektor unggulan desa (pertanian, peternakan, energi terbarukan, e-commerce) melalui solusi IoT, AI, dan infrastruktur digital yang disesuaikan.
+|*Pemberdayaan Masyarakat melalui Literasi Digital* |Membangun kapasitas masyarakat untuk menjadi agen perubahan, mampu mengelola teknologi secara mandiri demi keberlanjutan.
+|*Penguatan Ekosistem Inovasi Desa* |Menciptakan kolaborasi berkelanjutan antara akademisi, pemerintah desa, dan masyarakat untuk memastikan proyek tetap berjalan pasca-intervensi.
+|===
+
+== Ruang Lingkup Kegiatan
+
+=== Perumusan Ide Inovasi
+INESA memperkenalkan teknologi yang relevan dengan kebutuhan desa:
+
+- **IoT (Internet of Things)**:
+  . Sensor dan pemantauan real-time untuk pertanian, perkebunan, peternakan.
+    .. Contoh: irigasi otomatis, pemantauan kelembaban tanah, etc.
+  . Sistem *smart waste management* berbasis komunitas untuk pengelolaan sampah.
+- **Infrastruktur Digital**:
+  . Jaringan internet desa berbasis energi terbarukan.
+    .. Contoh: panel surya, etc.
+  . *Digital hub* sebagai pusat akses informasi dan pelatihan.
+- **AI (Artificial Intelligence)**:
+  . Prediksi hasil panen atau analisis pasar pertanian berbasis AI.
+  . Chatbot layanan publik desa menggunakan *Natural Language Processing* (NLP), *Large Language Model* (LLM), dan *Decentralized Large Language Model* (DLLM), etc.
+
+=== Tahapan Pelaksanaan
+Proses INESA dirancang secara sistematis untuk memastikan solusi yang relevan dan berkelanjutan:
+
+[cols="1,3,3",options="header"]
+|===
+|Tahap |Aktivitas |Metode
+|*Riset Pendahuluan* |Studi literatur teknologi terkini dan praktik terbaik, observasi lapangan, wawancara dengan pemangku kepentingan (pemerintah desa, kelompok tani, pelajar). |Literatur review, wawancara mendalam.
+|*Pengumpulan Data* |Survei kebutuhan dan Focus Group Discussion (FGD) untuk menggali tantangan spesifik. |Kuantitatif (kuesioner digital), Kualitatif (FGD).
+|*Penyusunan Konsep* |Pemetaan solusi teknologi berdasarkan matriks *impact-feasibility*, pembuatan prototipe sederhana (*mock-up*). |Analisis prioritas, desain prototipe.
+|*Penetapan Ide Final* |Presentasi konsep kepada masyarakat desa, revisi berdasarkan masukan, penandatanganan MoU. |Dialog partisipatif, komitmen formal.
+|*Eksekusi Langsung* |Pembagian tim (IoT, infrastruktur, AI), pelibatan masyarakat dalam instalasi dan pelatihan (*learning by doing*). |Implementasi terukur, pelatihan langsung.
+|===
+
+=== Perumusan Pelaksanaan dan Edukasi
+Kegiatan INESA menyasar dua fokus utama:
+
+- **Inovasi: Membangun Bersama Warga**
+  . Relevansi: Sesuai kebutuhan dan kearifan lokal.
+  . Keberdayaan: Masyarakat mampu memelihara dan mengembangkan teknologi secara mandiri.
+  . Keberlanjutan: Proyek tetap berjalan pasca-intervensi tim.
+- **Edukasi: Fundamental Teknologi dan Pemberdayaan**
+  . Melawan ketergantungan dan eksploitasi sumber daya oleh pihak eksternal.
+  . Demokratisasi teknologi: Teknologi modern dapat diakses, dipahami, dan dimodifikasi oleh masyarakat desa.
+
+=== Materi Edukasi
+- **Literasi Digital Desa**
+  . Menggunakan alat digital untuk pemasaran pertanian atau membangun e-commerce lokal.
+  . Privasi data dan keamanan online untuk menghindari manipulasi media sosial.
+- **Pengelolaan Sumber Daya Lokal**
+  . Teknik optimalisasi potensi desa tanpa ketergantungan pada korporasi besar.
+- **Teknologi Adaptif**
+  . Pelatihan teknologi terbarukan (contoh: prompting AI untuk hasil optimal).
+  . Prinsip DIY (*Do-It-Yourself*): Memanfaatkan bahan lokal untuk membuat alat sederhana.
+
+=== Jalur Edukasi dan Inovasi
+- **Jalur Edukasi**
+  . Menyasar pelajar di lingkungan sekolah dengan materi teknologi modern.
+  . Tujuannya: Menginspirasi inovasi yang dapat diterapkan dalam kehidupan sehari-hari.
+- **Jalur Inovasi**
+  . Kunjungan langsung ke desa untuk berinteraksi dengan pemangku kepentingan.
+  . Tujuannya: Memahami kebutuhan lokal dan menjelaskan penggunaan inovasi secara personal.
+
+== Output yang Diharapkan
+- **Sistem Inovasi Desa**
+  . Masyarakat memiliki rasa kepemilikan terhadap sistem inovasi untuk perawatan dan pengembangan.
+  . Berlandaskan *community-based participatory research* (CBPR), solusi lahir dari dialog setara antara tim COCONUT dan warga.
+- **Edukasi Efektif**
+  . Pemuda mampu mengidentifikasi peluang teknologi dan menjadi *peer educator*.
+  . Mengacu pada *transformative learning* (Mezirow), edukasi mendorong perubahan perspektif melalui refleksi pengalaman.
+- **Kolaborasi Aktif**
+  . Hubungan erat antara desa, sekolah, dan tim inovasi melalui pendekatan partisipatif.
+
+== Indikator Keberhasilan
+[cols="2,3",options="header"]
+|===
+|Kategori |Indikator
+|*Peningkatan Efisiensi* | - Penurunan 30% waktu pengolahan lahan dengan IoT (terukur via log petani).  
+- Pengurangan 50% keluhan layanan publik dalam 3 bulan pasca-inesa.
+|*Keterampilan Lokal* | - 80% peserta pelatihan mampu memodifikasi alat sederhana tanpa bantuan tim.  
+- Pemuda membuat proyek *showcase* sebagai syarat kelulusan.
+|*Keberlanjutan* | - Terbentuknya kelompok inovasi desa yang mengadakan pertemuan rutin tanpa inisiasi eksternal.
+|*Dampak Sosial* | - *Bonding capital* (Putnam): Meningkatnya frekuensi gotong-royong untuk pemeliharaan teknologi.  
+|===
+
+== Penutup
+INESA adalah gerakan kolektif yang meletakkan fondasi transformasi desa berbasis kemanusiaan dan teknologi dengan prinsip *“desa membangun desa”*. Teknologi menjadi kekuatan—bukan pengganti—nilai gotong-royong dan kearifan lokal.

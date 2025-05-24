@@ -1,0 +1,13 @@
+= Member
+:navtitle: Learning - Member
+:description: Learning programs for COCONUT full members
+:keywords: COCONUT, learning, member, training
+
+== Overview
+The *Member* section details advanced learning programs for COCONUT's full members to enhance their technical and leadership capabilities.
+
+== Details
+[NOTE]
+This section is under development. Details about member-specific workshops, projects, and growth opportunities will be added soon.
+
+Check back for updates on advancing as a COCONUT member.

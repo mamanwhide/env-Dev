@@ -1,0 +1,13 @@
+= Raker
+:navtitle: Meeting - Raker
+:description: COCONUT's working meeting for planning
+:keywords: COCONUT, meeting, raker, planning
+
+== Overview
+The *Raker* section details COCONUT's working meeting (Rapat Kerja) for planning programs and initiatives.
+
+== Details
+[NOTE]
+This section is under development. Details about Raker schedules, objectives, and outcomes will be added soon.
+
+Check back for updates on COCONUT's planning sessions.

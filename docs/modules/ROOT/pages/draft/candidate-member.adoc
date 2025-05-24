@@ -1,0 +1,13 @@
+= Candidate Member
+:navtitle: Learning - Candidate Member
+:description: Learning programs for COCONUT candidate members
+:keywords: COCONUT, learning, candidate member, training
+
+== Overview
+The *Candidate Member* section outlines the learning programs designed for new COCONUT candidates to prepare them for full membership.
+
+== Details
+[NOTE]
+This section is under development. Information about candidate training modules, mentorship, and skill development will be added soon.
+
+Check back for updates on starting your COCONUT journey.

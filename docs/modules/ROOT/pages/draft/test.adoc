@@ -1,0 +1,13 @@
+= Test
+:navtitle: Now Open - Test
+:description: Testing stage for COCONUT recruitment
+:keywords: COCONUT, recruitment, test, membership
+
+== Overview
+The *Test* section describes the testing phase of COCONUT's recruitment, assessing candidates' technical and problem-solving skills.
+
+== Details
+[NOTE]
+This section is under development. Information about test formats, topics, and evaluation criteria will be added soon.
+
+Check back for updates on how to prepare for COCONUT's tests.

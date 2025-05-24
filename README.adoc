@@ -1,0 +1,30 @@
+= Bluebook Documentation 
+
+The Bluebook is the official documentation for the COCONUT Computer Club, a leading research and development organization in Computer Science and Information Technology based in Makassar, Indonesia. Hosted at {https://bluebook.coconut.or.id}[bluebook.coconut.or.id], it serves as a comprehensive guide for COCONUT's initiatives, including digital transformation programs (e.g., INESA for rural development), onboarding processes, meeting notes, and learning resources.
+
+== About COCONUT Computer Club
+
+Founded in April 2008 at STMIK Professional, Makassar, the Computer Club Oriented Network, Utility & Technology (COCONUT) drives innovation in areas such as Computer Vision, Cyber Security, Applied Machine Learning, and High Performance Services. With members from universities like Universitas Muhammadiyah, Universitas Negeri Makassar, Universitas Hasanuddin, and others, COCONUT collaborates with organizations such as Center for Open Science, IDSECCONF, and AI Research Indonesia to advance Indonesia's knowledge-driven economy.
+
+Learn more at {https://coconut.or.id}[coconut.or.id].
+
+== About the Bluebook
+
+The Bluebook is built using {url-antora}[Antora], a modern documentation site generator. It organizes content into modules, with key sections including:
+
+
+
+
+
+Home: Overview of COCONUT's mission and activities.
+
+
+
+Draft: Guides for initiatives like INESA, onboarding, meetings, and learning programs.
+
+The site is hosted at {url-bluebook}[bluebook.coconut.or.id], with the source code and configuration available in the {url-playbook}[Bluebook playbook project].
+
+
+== Copyright and License
+
+Copyright (C) 2025 COCONUT Computer Club and individual contributors.

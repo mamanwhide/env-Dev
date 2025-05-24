@@ -1,0 +1,13 @@
+= Mubes
+:navtitle: Meeting - Mubes
+:description: COCONUT's annual grand meeting
+:keywords: COCONUT, meeting, mubes, community
+
+== Overview
+The *Mubes* section describes COCONUT's annual grand meeting (Musyawarah Besar) to set strategic directions and elect leadership.
+
+== Details
+[NOTE]
+This section is under development. Information about Mubes agendas, outcomes, and participation will be added soon.
+
+Check back for updates on COCONUT's grand meeting.
