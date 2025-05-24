@@ -5,7 +5,7 @@ site:
 content:
   sources:
 
-    - url: https://github.com/mamanwhide/demo-component-b.git
+    - url: https://github.com/mamanwhide/env-Dev.git
       branches: main
 ui:
   bundle:
