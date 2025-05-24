@@ -446,7 +446,9 @@ object[type="image/svg+xml"]:not([width]) {
 
 .is-current-page>.nav-link,
 .is-current-page>.nav-text {
-    font-weight: 600
+    font-weight: 600;
+    color: #2a5bba;
+    
 }
 
 .nav-panel-explore {
